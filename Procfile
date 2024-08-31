@@ -1,1 +1,1 @@
-web: python3 bot.by
+web: python3 /main/bot.by
